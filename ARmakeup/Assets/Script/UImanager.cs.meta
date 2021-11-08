@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 05baff61014445b45b03b6a41d60124c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - color: {instanceID: 0}
+  - GraSlider: {instanceID: 0}
+  - GraValue: {instanceID: 0}
+  - SpecValue: {instanceID: 0}
+  - Alphaslider: {instanceID: 0}
+  - AlphaValue: {instanceID: 0}
+  - mainMenu: {instanceID: 0}
+  - button1: {instanceID: 0}
+  - ColorSetPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
